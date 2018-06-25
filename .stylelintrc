@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "stylelint-config-standard"
+  ],
+  "rules": {
+    "declaration-colon-newline-after": null,
+    "font-family-no-missing-generic-family-keyword": null
+  }
+}
